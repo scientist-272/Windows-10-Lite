@@ -93,52 +93,11 @@ After downloading, verify the SHA-256 checksum when a checksum is provided for t
 Open **PowerShell**:
 
 ```powershell
+
 Get-FileHash "C:\Path\Scientist272-Windows-10-Lite x64 23h2.iso" -Algorithm SHA256
 
-3️⃣ Create a Bootable USB
 
-You will need:
 
-Windows 10 Lite ISO
-USB flash drive
-At least 8 GB USB
-A working computer
-Rufus or another suitable bootable-media tool
 
-⚠️ Warning: Creating bootable installation media can erase the USB drive. Back up important files first.
 
-4️⃣ Boot From USB
-Insert the bootable USB.
-Restart the computer.
-Open the computer's Boot Menu.
-Select the USB drive.
-Start Windows Setup.
 
-Common Boot Menu keys include:
-
-F12 · F11 · F9 · Esc · F8
-
-The correct key depends on your computer manufacturer.
-
-5️⃣ Windows Setup
-
-When Windows Setup starts:
-
-Select your language.
-Select time and currency format.
-Select keyboard layout.
-Click Install now.
-Follow the installation instructions.
-6️⃣ Select the Installation Drive
-
-For a clean installation, carefully select the correct target drive/partition.
-
-⚠️ IMPORTANT
-
-Formatting or deleting partitions can permanently delete data.
-
-Back up your important files before installing Windows.
-
-📖 Full Installation Guide
-
-👉 Open Installation Guide
