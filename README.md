@@ -332,7 +332,7 @@ Users are responsible for having an appropriate Windows license.
 
 Use the project at your own risk.
 
-Always back up important data before installing an operating system.
+
 
 ---
 
